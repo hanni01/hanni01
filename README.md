@@ -12,10 +12,3 @@
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
 	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-</div>
-
-  ![hanni 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=hanni01&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanni01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
